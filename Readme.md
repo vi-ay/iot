@@ -143,6 +143,10 @@ GPIO.cleanup()
 ```bash
 sudo apt update
 sudo pip3 install telepot --break-system-packages
+
+import telepot
+bot = telepot.Bot('*** copy bot token from botfather ***')
+bot.getMe()
 ```
 
 **Code** – `Prac2.py`  (bot tokens in the zip file are replaced with `YOUR_BOT_TOKEN` here – paste your own)
