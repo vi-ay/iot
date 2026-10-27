@@ -22,7 +22,9 @@ All code below is taken as-is from `IOT.zip` and `confirm.zip`. Pin numbers are 
 
 **Module 2**
 9. [Q11 – Fingerprint + LCD + RFID UID matched / unmatched](#q11)
+
 10. [Q12 – Door lock (fingerprint + relay)](#q12)
+
 11. [Q13 – MQTT publisher / subscriber controlling LED](#q13)
 12. [Q14 – Flask web dashboard controlling relay](#q14)
 13. [Q15 – Two-factor authentication (RFID + fingerprint + relay)](#q15)
