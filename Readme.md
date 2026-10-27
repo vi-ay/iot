@@ -21,6 +21,7 @@ All code below is taken as-is from `IOT.zip` and `confirm.zip`. Pin numbers are 
 8. [Q9 – Pi Camera image & video](#q9)
 
 **Module 2**
+
 9. [Q11 – Fingerprint + LCD + RFID UID matched / unmatched](#q11)
 
 10. [Q12 – Door lock (fingerprint + relay)](#q12)
